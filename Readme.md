@@ -70,7 +70,7 @@ _Dimensões: 50 x 50 x 25 (mm)._
 Este projeto foi desenvolvido no **Campus II da UNEB**, como parte da disciplina de Projeto de Extensão.
 
 - **Professor Orientador:** Peterson Lobato
-- **Discentes Participantes:** Albiery, Cauane, Leoman, Yude e Joedson
+- **Discentes Participantes:** Albiery Gonçalves, Cauane Galdino, Leoman Cássio, Yude Lima e Joedson Nascimento
 
 ---
 
