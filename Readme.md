@@ -108,16 +108,36 @@ Utilizamos o material **PET-G** devido à sua durabilidade, resistência à umid
 
 #### Imagens do Modelo STL
 
-![Alimentador - Frente](./assets/images/alimentador-pequeno-frente.png)
-![Alimentador - Cima](./assets/images/alimentador-pequeno-cima.png)
+![Alimentador Pequeno - Frente](./assets/images/alimentador-pequeno-frente.png)
+![Alimentador Pequeno - Cima](./assets/images/alimentador-pequeno-cima.png)
 
 #### Imagens da Peça Impressa
 
-![Alimentador Pequeno Impresso](./assets/images/alimentador-pequeno-impresso.jpeg)
+![Alimentador Interno Pequeno Impresso](./assets/images/alimentador-pequeno-impresso.jpg)
 
 ---
 
-### 6. Bico de Entrada
+### 6. Alimentador Interno Grande
+
+**Descrição**: Semelhante ao alimentador pequeno, este modelo é um recipiente para colocar xarope ou alimento sólido (cândi) dentro da colmeia, porém com maior capacidade de armazenamento. Permite que as abelhas se alimentem facilmente e minimiza o risco de afogamento.
+
+- **Arquivo STL:** [`alimentador-grande.stl`](./assets/models/alimentador-grande.stl)
+- **Preenchimento (Infill):** 15%
+- **Dimensões (STL e Peça Impressa):** 50 x 50 x 50 mm
+
+#### Imagens do Modelo STL
+
+![Alimentador Grande - Frente](./assets/images/alimentador-grande-frente.png)
+![Alimentador Grande - Cima](./assets/images/alimentador-grande-cima.png)
+
+#### Imagens da Peça Impressa
+
+![Alimentador Interno Grande Impresso](./assets/images/alimentador-grande-impresso-1.jpg)
+![Alimentador Interno Grande Impresso](./assets/images/alimentador-grande-impresso-2.jpg)
+
+---
+
+### 7. Bico de Entrada
 
 **Descrição**: Agora sem o encaixe que era parafusado, o novo bico se encaixa perfeitamente de forma direta no Labirinto de Entrada. Ajuda a direcionar o tráfego das abelhas e oferece proteção contra intempéries.
 
@@ -134,20 +154,6 @@ Utilizamos o material **PET-G** devido à sua durabilidade, resistência à umid
 
 ![Bico Impresso 1](./assets/images/bico-impresso-1.jpeg)
 ![Bico Impresso 2](./assets/images/bico-impresso-2.jpg)
-
-<!-- ---
-
-### 7. Alimentador Interno Grande
-
-**Descrição**: Semelhante ao alimentador pequeno, este modelo é um recipiente para colocar xarope ou alimento sólido (cândi) dentro da colmeia, porém com maior capacidade de armazenamento. Permite que as abelhas se alimentem facilmente e minimiza o risco de afogamento.
-
-- **Arquivo STL:** _A ser adicionado_
-- **Preenchimento (Infill):** 15%
-- **Dimensões (STL e Peça Impressa):** 50 x 50 x 70 mm
-
-#### Imagens
-
-> _O arquivo STL e as fotos da peça real impressa serão adicionados em breve._ -->
 
 ---
 
