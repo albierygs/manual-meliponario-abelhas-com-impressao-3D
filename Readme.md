@@ -38,9 +38,8 @@ Utilizamos o material **PET-G** devido à sua durabilidade, resistência à umid
 
 #### Imagens da Peça Impressa
 
-![Labirinto Impresso 1](./assets/images/labirinto-impresso-1.jpeg)
-![Labirinto Impresso 2](./assets/images/labirinto-impresso-2.jpeg)
-![Labirinto Impresso 3](./assets/images/labirinto-impresso-3.jpg)
+![Labirinto Impresso 1](./assets/images/labirinto-impresso-1.jpg)
+![Labirinto Impresso 2](./assets/images/labirinto-impresso-2.jpg)
 
 ---
 
